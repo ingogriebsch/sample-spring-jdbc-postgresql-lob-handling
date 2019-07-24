@@ -10,6 +10,7 @@ This sample shows you how to handle PostgreSQL lobs with Spring JDBC.
 ## Used frameworks
 Collection of the mainly used frameworks in this project. There are more, but they are not that present inside the main use case therefore they are not listed here.
 
+*   [PostgreSQL JDBC](https://jdbc.postgresql.org/documentation/94/index.html)
 *   [Spring JDBC](https://docs.spring.io/spring/docs/4.3.x/spring-framework-reference/html/jdbc.html)
 *   [Spring Boot](https://docs.spring.io/spring-boot/docs/1.5.10.RELEASE/reference/htmlsingle/)
 *   [Testcontainers](https://www.testcontainers.org/)
