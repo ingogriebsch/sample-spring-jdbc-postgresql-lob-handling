@@ -1,7 +1,7 @@
 # Spring JDBC Postgresql Lob handling sample
 [![Build Status](https://travis-ci.org/ingogriebsch/sample-spring-jdbc-postgresql-lob-handling.svg?branch=master)](https://travis-ci.org/ingogriebsch/sample-spring-jdbc-postgresql-lob-handling)
 [![Codecov Status](https://codecov.io/gh/ingogriebsch/sample-spring-jdbc-postgresql-lob-handling/branch/master/graph/badge.svg)](https://codecov.io/gh/ingogriebsch/sample-spring-jdbc-postgresql-lob-handling)
-[![Codacy Status](https://api.codacy.com/project/badge/Grade/dea07e5254154aba99a941d6091d1c0c)](https://www.codacy.com/app/ingo.griebsch/sample-spring-jdbc-postgresql-lob-handling?utm_source=github.com&utm_medium=referral&utm_content=ingogriebsch/sample-spring-jdbc-postgresql-lob-handling&utm_campaign=Badge_Grade)
+[![Codacy Status](https://api.codacy.com/project/badge/Grade/c42734a79fb649be8c35b01fd6d17c7f)](https://www.codacy.com/app/ingo.griebsch/sample-spring-jdbc-postgresql-lob-handling?utm_source=github.com&utm_medium=referral&utm_content=ingogriebsch/sample-spring-jdbc-postgresql-lob-handling&utm_campaign=Badge_Grade)
 [![DepShield Status](https://depshield.sonatype.org/badges/ingogriebsch/sample-spring-jdbc-postgresql-lob-handling/depshield.svg)](https://depshield.github.io)
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
