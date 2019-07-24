@@ -1,0 +1,9 @@
+
+<svg contentScriptType="text/ecmascript"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.0">
+    <g visibility="visible" id="group">
+        <rect fill="red" width="250" x="10" height="100" id="rect" y="10"/>
+    </g>
+</svg>
