@@ -49,7 +49,6 @@ public class Document {
 
     private Long contentLength;
 
-    // FIXME We need to decide if this should be of type Blob or if we should/can use InputStream.
     @JsonIgnore
     @Setter(PACKAGE)
     private Blob content;
