@@ -25,8 +25,8 @@ public class BlobUtilsTest {
         Mockito.verify(blob).free();
     }
 
-    @Test(expected = RuntimeException.class)
-    public void free_should_throw_runtime_exception_if_calling_free_results_in_a_thrown_exception() throws Exception {
+    @Test(expected = Exception.class)
+    public void free_should_throw_any_exception_if_calling_free_results_in_a_thrown_exception() throws Exception {
         Blob blob = Mockito.mock(Blob.class);
         Mockito.doThrow(new SQLException()).when(blob).free();
         BlobUtils.free(blob);
