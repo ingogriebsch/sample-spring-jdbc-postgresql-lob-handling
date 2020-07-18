@@ -8,7 +8,8 @@ import org.springframework.context.annotation.Configuration;
 public class WebMvcConfiguration {
 
     @Bean
-    public DocumentResourceHttpMessageConverter documentResourceHttpMessageConverter(@NonNull DocumentRepository documentRepository) {
+    public DocumentResourceHttpMessageConverter
+        documentResourceHttpMessageConverter(@NonNull DocumentRepository documentRepository) {
         return new DocumentResourceHttpMessageConverter(documentRepository);
     }
 
