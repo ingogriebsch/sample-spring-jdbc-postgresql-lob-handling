@@ -17,6 +17,8 @@ import java.sql.Blob;
 import java.sql.SQLException;
 import java.util.List;
 
+import lombok.NonNull;
+import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpInputMessage;
 import org.springframework.http.HttpOutputMessage;
@@ -25,9 +27,6 @@ import org.springframework.http.converter.HttpMessageConverter;
 import org.springframework.http.converter.HttpMessageNotReadableException;
 import org.springframework.http.converter.HttpMessageNotWritableException;
 import org.springframework.transaction.annotation.Transactional;
-
-import lombok.NonNull;
-import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
 public class DocumentResourceHttpMessageConverter implements HttpMessageConverter<DocumentResource> {

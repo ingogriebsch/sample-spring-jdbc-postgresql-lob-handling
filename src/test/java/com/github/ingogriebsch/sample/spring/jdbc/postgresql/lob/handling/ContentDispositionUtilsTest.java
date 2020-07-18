@@ -2,8 +2,6 @@ package com.github.ingogriebsch.sample.spring.jdbc.postgresql.lob.handling;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-import com.github.ingogriebsch.sample.spring.jdbc.postgresql.lob.handling.ContentDispositionUtils;
-
 import org.junit.Test;
 
 public class ContentDispositionUtilsTest {

@@ -1,7 +1,5 @@
 package com.github.ingogriebsch.sample.spring.jdbc.postgresql.lob.handling;
 
-import com.github.ingogriebsch.sample.spring.jdbc.postgresql.lob.handling.Document;
-
 import org.junit.Test;
 
 public class DocumentTest {

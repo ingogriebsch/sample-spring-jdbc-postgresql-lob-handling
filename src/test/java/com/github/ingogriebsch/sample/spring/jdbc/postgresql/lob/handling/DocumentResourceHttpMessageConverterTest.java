@@ -24,11 +24,6 @@ import java.sql.Blob;
 import java.sql.SQLException;
 import java.util.UUID;
 
-import com.github.ingogriebsch.sample.spring.jdbc.postgresql.lob.handling.Document;
-import com.github.ingogriebsch.sample.spring.jdbc.postgresql.lob.handling.DocumentRepository;
-import com.github.ingogriebsch.sample.spring.jdbc.postgresql.lob.handling.DocumentResource;
-import com.github.ingogriebsch.sample.spring.jdbc.postgresql.lob.handling.DocumentResourceHttpMessageConverter;
-
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.runners.MockitoJUnitRunner;

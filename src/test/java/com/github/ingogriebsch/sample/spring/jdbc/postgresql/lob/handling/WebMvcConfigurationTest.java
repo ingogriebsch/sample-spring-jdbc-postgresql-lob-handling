@@ -2,9 +2,6 @@ package com.github.ingogriebsch.sample.spring.jdbc.postgresql.lob.handling;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-import com.github.ingogriebsch.sample.spring.jdbc.postgresql.lob.handling.DocumentRepository;
-import com.github.ingogriebsch.sample.spring.jdbc.postgresql.lob.handling.WebMvcConfiguration;
-
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mockito;

@@ -3,8 +3,6 @@ package com.github.ingogriebsch.sample.spring.jdbc.postgresql.lob.handling;
 import java.sql.Blob;
 import java.sql.SQLException;
 
-import com.github.ingogriebsch.sample.spring.jdbc.postgresql.lob.handling.BlobUtils;
-
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mockito;
