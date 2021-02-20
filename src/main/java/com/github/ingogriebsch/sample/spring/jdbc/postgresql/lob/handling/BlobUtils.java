@@ -7,7 +7,6 @@ import java.sql.SQLException;
 
 import lombok.NoArgsConstructor;
 
-// FIXME Only necessary if we use a Blob for the content.
 @NoArgsConstructor(access = PRIVATE)
 public final class BlobUtils {
 
